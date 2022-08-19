@@ -1,6 +1,6 @@
 # MascotaFelizJavaSwing
 A veterinary software, using JavaSwing and MySQL
 
-![Screenshot](mascotaFeliz1.PNG)
-![Screenshot](mascotaFeliz2.PNG)
-![Screenshot](mascotaFeliz3.PNG)
+![Screenshot](mascotaFeliz1.png)
+![Screenshot](mascotaFeliz2.png)
+![Screenshot](mascotaFeliz3.png)
